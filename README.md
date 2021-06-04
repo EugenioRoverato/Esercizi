@@ -6,10 +6,10 @@
 Level | Contents
 :---: | :---: |
 :kick_scooter: | [Arithmetic operators](Exercises/ArithmeticOperators.java)
-:kick_scooter: | [Even and odd](Esercizi/EvenOdd)
-:kick_scooter: | [Invert string](Esercizi/InvertString)
-:kick_scooter: | [Replace intruders](Esercizi/ReplaceIntruders)
-:kick_scooter: | [Compare strings](Esercizi/CompareStrings)
+:kick_scooter: | [Even and odd](Exercises/EvenOdd.java)
+:kick_scooter: | [Invert string](Exercises/InvertString.java)
+:kick_scooter: | [Replace intruders](Exercises/ReplaceIntruders.java)
+:kick_scooter: | [Compare strings](Exercises/CompareStrings.java)
 
 #### _Module 2_ - Syntax and Naming
 
