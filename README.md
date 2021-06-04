@@ -5,11 +5,11 @@
 
 Level | Contents
 :---: | :---: |
-:kick_scooter: | [Arithmetic operators](Esercizi/)
-:kick_scooter: | [Even and odd](Esercizi/)
-:kick_scooter: | [Invert string](Esercizi/)
-:kick_scooter: | [Replace intruders](Esercizi/)
-:kick_scooter: | [Compare strings](Esercizi/)
+:kick_scooter: | [Arithmetic operators](Exercises/ArithmeticOperators)
+:kick_scooter: | [Even and odd](Exercises/EvenOdd)
+:kick_scooter: | [Invert string](Exercises/InvertString)
+:kick_scooter: | [Replace intruders](Exercises/ReplaceIntruders)
+:kick_scooter: | [Compare strings](Exercises/CompareStrings)
 
 #### _Module 2_ - Syntax and Naming
 
