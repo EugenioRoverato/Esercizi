@@ -5,7 +5,7 @@
 
 Level | Contents
 :---: | :---: |
-:kick_scooter: | [Arithmetic operators](Esercizi/ArithmeticOperators)
+:kick_scooter: | [Arithmetic operators](Esercizi/)
 :kick_scooter: | [Even and odd](Esercizi/EvenOdd)
 :kick_scooter: | [Invert string](Esercizi/InvertString)
 :kick_scooter: | [Replace intruders](Esercizi/ReplaceIntruders)
