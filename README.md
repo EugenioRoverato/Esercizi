@@ -5,7 +5,7 @@
 
 Level | Contents
 :---: | :---: |
-:kick_scooter: | [Arithmetic operators](Exercises/)
+:kick_scooter: | [Arithmetic operators](Exercises/ArithmeticOperators.java)
 :kick_scooter: | [Even and odd](Esercizi/EvenOdd)
 :kick_scooter: | [Invert string](Esercizi/InvertString)
 :kick_scooter: | [Replace intruders](Esercizi/ReplaceIntruders)
