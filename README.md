@@ -5,22 +5,22 @@
 
 Level | Contents
 :---: | :---: |
-:kick_scooter: | [Arithmetic operators](Exercises/ArithmeticOperators.java)
-:kick_scooter: | [Even and odd](Exercises/EvenOdd.java)
-:kick_scooter: | [Invert string](Exercises/InvertString.java)
-:kick_scooter: | [Replace intruders](Exercises/ReplaceIntruders.java)
-:kick_scooter: | [Compare strings](Exercises/CompareStrings.java)
+:kick_scooter: | [Arithmetic operators](Exercises/Module1/ArithmeticOperators.java)
+:kick_scooter: | [Even and odd](Exercises/Module1/EvenOdd.java)
+:kick_scooter: | [Invert string](Exercises/Module1/InvertString.java)
+:kick_scooter: | [Replace intruders](Exercises/Module1/ReplaceIntruders.java)
+:kick_scooter: | [Compare strings](Exercises/Module1/CompareStrings.java)
 
 #### _Module 2_ - Syntax and Naming
 
 Level | Contents
 :---: | :---: |
-:kick_scooter: | [Count occurrences in a string](Exercises/)
-:kick_scooter: | [String reverse](Exercises/)
-:kick_scooter: | [Prime number](Exercises/)
-:kick_scooter: | [Factorial](Exercises/)
-:kick_scooter: | [Harmonic sum](Exercises/)
-:kick_scooter: | [Palindrome string](Exercises/)
+:kick_scooter: | [Count occurrences in a string](Exercises/Module2/CountOccurences)
+:kick_scooter: | [String reverse](Exercises/Module2/StringReverse)
+:kick_scooter: | [Prime number](Exercises/Module2/PrimeNumber)
+:kick_scooter: | [Factorial](Exercises/Module2/Factorial)
+:kick_scooter: | [Harmonic sum](Exercises/Module2/HarmonicSum)
+:kick_scooter: | [Palindrome string](Exercises/Module2/PalindromeString)
 :kick_scooter: | [Seconds to days, hours, minutes and seconds](Exercises/)
 :kick_scooter: | [Fibonacci](Exercises/)
 :kick_scooter: | [Anagrams](Exercises/)
