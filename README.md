@@ -48,9 +48,9 @@ Level | Contents
 
 Level | Contents
 :---: | :---: |
-:kick_scooter: | [Shades of gray](Exercises/Module4/)
-:kick_scooter: | [Image filters](Exercises/Module4/)
-:motor_scooter: | [Green screen](Exercises/Module4/)
+:kick_scooter: | [Shades of gray](Exercises/Module4/ShadesOfGray.java)
+:kick_scooter: | [Image filters](Exercises/Module4/ImageFilters.java)
+:motor_scooter: | [Green screen](Exercises/Module4/AOT.java)
 :motor_scooter:/:motorcycle: | [Webcam time lapse](Exercises/Module4/)
 :motorcycle: | [Webcam filters](Exercises/Module4/)
 
