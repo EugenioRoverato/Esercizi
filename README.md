@@ -15,23 +15,22 @@ Level | Contents
 
 Level | Contents
 :---: | :---: |
-:kick_scooter: | [Count occurrences in a string](Exercises/Module2/CountOccurences)
-:kick_scooter: | [String reverse](Exercises/Module2/StringReverse)
-:kick_scooter: | [Prime number](Exercises/Module2/PrimeNumber)
-:kick_scooter: | [Factorial](Exercises/Module2/Factorial)
-:kick_scooter: | [Harmonic sum](Exercises/Module2/HarmonicSum)
-:kick_scooter: | [Palindrome string](Exercises/Module2/PalindromeString)
-:kick_scooter: | [Seconds to days, hours, minutes and seconds](Exercises/Module2/DaysHoursMinutesSeconds)
-:kick_scooter: | [Fibonacci](Exercises/Module2/Fibonacci)
-:kick_scooter: | [Anagrams](Exercises/Module2/Anagrams)
-:kick_scooter: | [Min and Max](Exercises/Module2/MinMax)
-:kick_scooter: | [Diagonal sum](Exercises/Module2/DiagonalSum)
-:motor_scooter: | [Bingo](Exercises/Module2/Bingo)
-:kick_scooter: | [Stack overflow](Exercises/Module2/)
-:kick_scooter: | [Cipher of Caesar](Exercises/Module2/)
-:kick_scooter: | [Find the prime numbers](Exercises/Module2/)
-:motor_scooter: | [Sum array values ricursively](Exercises/Module2/)
-:motor_scooter: | [Recursive palindrome string](Exercises/Module2/)
+:kick_scooter: | [Count occurrences in a string](Exercises/Module2/CountOccurences.java)
+:kick_scooter: | [String reverse](Exercises/Module2/StringReverse.java)
+:kick_scooter: | [Prime number](Exercises/Module2/PrimeNumber.java)
+:kick_scooter: | [Factorial](Exercises/Module2/Factorial.java)
+:kick_scooter: | [Harmonic sum](Exercises/Module2/HarmonicSum.java)
+:kick_scooter: | [Palindrome string](Exercises/Module2/PalindromeString.java)
+:kick_scooter: | [Seconds to days, hours, minutes and seconds](Exercises/Module2/DaysHoursMinutesSeconds.java)
+:kick_scooter: | [Fibonacci](Exercises/Module2/Fibonacci.java)
+:kick_scooter: | [Anagrams](Exercises/Module2/Anagrams.java)
+:kick_scooter: | [Min and Max](Exercises/Module2/MinMax.java)
+:kick_scooter: | [Diagonal sum](Exercises/Module2/DiagonalSum.java)
+:motor_scooter: | [Bingo](Exercises/Module2/Bingo.java)
+:kick_scooter: | [Cipher of Caesar](Exercises/Module2/CaesarCipher.java)
+:kick_scooter: | [Find the prime numbers](Exercises/Module2/PrimeNumBeforeN.java)
+:motor_scooter: | [Sum array values ricursively](Exercises/Module2/RecursiveArraySum.java)
+:motor_scooter: | [Recursive palindrome string](Exercises/Module2/RecursivePalindrome.java)
 :motor_scooter: | [Triangle of tartaglia](Exercises/Module2/)
 :motor_scooter: | [Find the perfect numbers](Exercises/Module2/)
 :motorcycle: | [Binary search](Exercises/Module2/)
@@ -43,7 +42,17 @@ Level | Contents
 
 Level | Contents
 :---: | :---: |
-:motorcycle: | [Labyrinth](Exercises/)
+:motorcycle: | [Labyrinth](Exercises/Module3/)
+
+#### _Module 4_ - OOP
+
+Level | Contents
+:---: | :---: |
+:kick_scooter: | [Shades of gray](Exercises/Module4/)
+:kick_scooter: | [Image filters](Exercises/Module4/)
+:motor_scooter: | [Green screen](Exercises/Module4/)
+:motor_scooter:/:motorcycle: | [Webcam time lapse](Exercises/Module4/)
+:motorcycle: | [Webcam filters](Exercises/Module4/)
 
 ### Leetcode Exercises
 
