@@ -40,14 +40,14 @@ Level          | Contents                                                       
 
 #### _Module 3_ - Git
 
-Level | Contents
-:---: | :---: |
+Level          | Contents                                                                   |       |
+:---:          | :---:                                                                      | :---:
 :motorcycle: | [Labyrinth](Exercises/Module3/)                                              | ❌
 
 #### _Module 4_ - OOP
 
-Level | Contents
-:---: | :---: |
+Level          | Contents                                                                   |       |
+:---:          | :---:                                                                      | :---:
 :kick_scooter: | [Shades of gray](Exercises/Module4/ShadesOfGray.java)                      | ✔️
 :kick_scooter: | [Image filters](Exercises/Module4/ImageFilters.java)                       | ✔️
 :motor_scooter: | [Green screen](Exercises/Module4/AOT.java)                                | ✔️
