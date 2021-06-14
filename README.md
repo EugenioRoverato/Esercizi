@@ -56,6 +56,22 @@ Level          | Contents                                                       
 :motor_scooter: | [Repair Company](Exercises/Module4/RepairCompany)                         | ✔️
 :motor_scooter: | [Shop Manager](Exercises/Module4/Shop)                                    | ✔️
 
+#### _Module 5_ - Inheritance
+
+Level          | Contents                                                                   |       |
+:---:          | :---:                                                                      | :---:
+:kick_scooter: | [Forme Geometriche](Exercises/Module5/Forme)                               | ✔️
+:kick_scooter: | [Gestore Veicoli](Exercises/Module5/Veicoli)                               | ✔️
+:motor_scooter: | [Distributore Bevande](Exercises/Module5/Caffe)                           | ✔️
+:motor_scooter: | [Gestore Prenotazioni](Exercises/Module5/Prenotazioni)                    | ✔️
+:motorcycle: | [Classifica Serie A](Exercises/Module5/SerieACalcio)                         | ✔️
+
+#### _Module 6_ - Advanced inheritance
+
+Level          | Contents                                                                   |       |
+:---:          | :---:                                                                      | :---:
+:kick_scooter: | [Introduzione Interfacce](Exercises/Module6/Interfacce)                    | ✔️
+
 ### Leetcode Exercises
 
 <details>
