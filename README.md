@@ -31,7 +31,7 @@ Level          | Contents                                                       
 :kick_scooter: | [Find the prime numbers](Exercises/Module2/PrimeNumBeforeN.java)           | ✔️
 :motor_scooter: | [Sum array values ricursively](Exercises/Module2/RecursiveArraySum.java)  | ✔️
 :motor_scooter: | [Recursive palindrome string](Exercises/Module2/RecursivePalindrome.java) | ✔️
-:motor_scooter: | [Triangle of tartaglia](Exercises/Module2/)                               | ❌
+:motor_scooter: | [Triangle of tartaglia](Exercises/Module2/TriangoloTartaglia.java)        | ✔️
 :motor_scooter: | [Find the perfect numbers](Exercises/Module2/)                            | ❌
 :motorcycle: | [Binary search](Exercises/Module2/)                                          | ❌
 :motorcycle: | [Mergesort](Exercises/Module2/)                                              | ❌
