@@ -1,4 +1,5 @@
-package Exercises;
+package Old.Exercises;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class PrimeNumBeforeN
@@ -13,36 +14,38 @@ public class PrimeNumBeforeN
             num = sc.nextInt();
         }while (num < 2);
 
-        for (int n : findPrimeNum(num))
-            if (n != 0)
-                System.out.print(n + " ");
+        System.out.println(Arrays.toString(findPrimeNum(num)));
     }
 
    static int[] findPrimeNum(int num)
    {
-       if (num == 2) return new int[]{2};
-       if (num == 3) return new int[]{3};
+       int[] allNum = new int[num/2];
+       if (num <= 1) return new int[]{0};
 
-       int[] allNum = new int[num];
-
-       for (int i = 2 ; i < allNum.length ; i++)
+       int index = 0;
+       for (int i = 2 ; i < num ; i ++)
        {
-           allNum[i] = i;
-       }
-
-       for (int j = 2 ; allNum[j]*allNum[j] < allNum.length ; j++)
-       {
-           if (allNum[j] != 0)
+           boolean hasDividers = false;
+           int divider = 2;
+           while (divider <= i/2)
            {
-               for (int k = 4 ; k < allNum.length ; k++)
+               if (i % divider == 0)
                {
-                   if (allNum[k] % j == 0)
-                   {
-                       allNum[k] = 0;
-                   }
+                   hasDividers = true;
+                   break;
                }
+               divider++;
+           }
+           if (!hasDividers)
+           {
+               allNum[index] = i; // non deve essere eseguito sempre dopo il while
+               index++;
            }
        }
-       return allNum;
+
+       int[] noZeros = new int[index];
+       System.arraycopy(allNum, 0, noZeros, 0, index);
+
+       return noZeros;
    }
 }
