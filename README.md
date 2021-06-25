@@ -33,7 +33,7 @@ Level          | Contents                                                       
 :motor_scooter: | [Recursive palindrome string](Exercises/Module2/RecursivePalindrome.java) | ✔️
 :motor_scooter: | [Triangle of tartaglia](Exercises/Module2/TriangoloTartaglia.java)        | ✔️
 :motor_scooter: | [Find the perfect numbers](Exercises/Module2/PerfectNumbers1000.java)     | ✔️
-:motorcycle: | [Binary search](Exercises/Module2/)                                          | ❌
+:motorcycle: | [Binary search](Exercises/Module2/BinaryResearch.java)                       | ✔️
 :motorcycle: | [Mergesort](Exercises/Module2/)                                              | ❌
 :motorcycle: | [Full bingo](Exercises/Module2/)                                             | ❌
 :motorcycle: | [Crossword puzzle](Exercises/Module2/)                                       | ❌
